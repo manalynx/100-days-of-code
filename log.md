@@ -16,7 +16,13 @@
 3- Done with the first project “Learning HTML by building a cat photo app”.It was divided into 68 challanges.
 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: As it was my first time learning with FCC I found it clear and fun. During that project i learned basic HTML and CSS.At the end of the day I was satasfied. \ Some of what I learned are: \
+1- order and unorderd lists. \
+2- Text filds. \
+3- Form element. \
+4- Types of input (submit , radio , checkbox). \
+5- label. \
+6- borders. \ and much more. 
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
