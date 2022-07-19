@@ -12,7 +12,9 @@
 
 **Today's Progress**: \
 1- I publicly announced that I'll start the challange using the hashtag #100DaysOfCode. \
-2- I started the first course at FreeCodeCamp "Responsive Web Design". The course consist of number of challanges and projects.
+2- I started the first course of FreeCodeCamp’s curriculum "Responsive Web Design". The course consist of number of challanges and projects. \
+3- Done with the first project “Learning HTML by building a cat photo app”.It was divided into 68 challanges.
+
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
