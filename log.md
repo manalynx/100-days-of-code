@@ -106,4 +106,6 @@ at freeCodeCamp.
 ### Day 7: July 17, 2022
 
 **Today's Progress**:\
-1- I completed the survey form's project and submitted it at FreeCodeCamp.
+- I completed the survey form's project and submitted it at FreeCodeCamp.
+
+**Thoughts** It was fun working on this project .I feel good after submitting it more confident of my codding skills.
