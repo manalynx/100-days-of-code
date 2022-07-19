@@ -16,7 +16,7 @@
 3- Done with the first project “Learning HTML by building a cat photo app”.It was divided into 68 challanges.
 
 
-**Thoughts**: As it was my first time learning with FCC I found it clear and fun. During that project i learned basic HTML and CSS.At the end of the day I was satasfied. \ Some of what I learned are: \
+**Thoughts**: As it was my first time learning with FCC I found it clear and fun. During that project i learned basic HTML and CSS.At the end of the day I was satasfied.\ Some of what I learned : \
 1- order and unorderd lists. \
 2- Text filds. \
 3- Form element. \
@@ -34,7 +34,10 @@
 2- Focused more on learning CSS . \
 3- Started the next project “ Building a Set of Colored Markers” at freeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** As a coffee lover ,I loved this project. I was doing it happly as if its a real world's project not only for learning.\ Some of what I learned : \
+1- pseudo selector.\
+2- Dealing with div.\
+3- CSS was the main focus.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
