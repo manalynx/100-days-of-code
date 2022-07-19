@@ -95,3 +95,5 @@ at freeCodeCamp.
 **Today's Progress**:\
 1- I'v completed all the instructions  provided to finish the "survey form".\
 2- I added all the requested elements without styling.
+
+**Thoughts** Today I was lazy and unsatasfied with my progress but still I did all what I could do.
