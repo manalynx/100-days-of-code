@@ -24,7 +24,7 @@
 5- label. \
 6- borders. \ and much more. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Day one's tweet](https://twitter.com/ManalAbobakr/status/1546280017172185088)
 
 
 ### Day 1: June 27, Monday
