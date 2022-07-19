@@ -75,3 +75,10 @@ at freeCodeCamp.
 
 **Link(s) to work**
 1. [Day 4 Tweet](https://twitter.com/ManalAbobakr/status/1547481934468526081)
+
+
+### Day 5: July 15, 2022
+
+**Today's Progress**:\
+1- Half way doing the test’s project “Survey Form “ at freeCodeCamp.\
+2- Dived more into SCC.
