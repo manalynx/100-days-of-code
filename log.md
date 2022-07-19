@@ -4,7 +4,7 @@
 
 **Today's Progress**: No progress yet. Today was the first time I heard about this interesting challange. My friend Imran intreduced the "100 days of code" to me and i liked the idea. I checked FreeCodeCamp and decided i will start this challange with it and see how far i can go.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** After reading more about the challange I was so excited to start and be part of it.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
