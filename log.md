@@ -132,3 +132,11 @@ at freeCodeCamp.
 
 **Link(s) to work**
 1- [Day 8 Tweet](https://twitter.com/ManalAbobakr/status/1549092247693451265)
+
+
+### Day 9: July 19, 2022
+
+**Today's Progress**:\
+1- Done with 46% of building a nutrition label webpage at freeCodeCamp.\
+2- Finally forked (100-days-of-code) to my PC and started to update my log then I pushed it to my GitHub. \
+3- Git & GitHub were the main focus today.
