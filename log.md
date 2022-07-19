@@ -97,3 +97,7 @@ at freeCodeCamp.
 2- I added all the requested elements without styling.
 
 **Thoughts** Today I was lazy and unsatasfied with my progress but still I did all what I could do.
+
+**Link(s) to work**
+1. [cafe Survey Form ](https://manalynx.github.io/survey-form/)
+2- [Day 5 Tweet](https://twitter.com/ManalAbobakr/status/1548311233199190017)
