@@ -66,7 +66,7 @@ at freeCodeCamp.
 
 **Today's Progress**:\
 1- Done with “ Building a Registration Form” at FreeCodeCamp.\
-2- Did some practice on using git & git hub .\
+2- Did some practice on using git & git hub .
 
 **Thoughts** It was an interesting project full of valuable information as registration forms are widly used almost on every website. \ Some of what I learned : \
 1- Form validation.\
@@ -105,7 +105,7 @@ at freeCodeCamp.
 
 ### Day 7: July 17, 2022
 
-**Today's Progress**:  \
+**Today's Progress**:  
 - I completed the survey form's project and submitted it at FreeCodeCamp.
 
 **Thoughts** It was fun working on this project .I feel good after submitting it,i'm feeling a bit more confident of my codding skills.
