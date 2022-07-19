@@ -84,3 +84,7 @@ at freeCodeCamp.
 2- Dived more into SCC.
 
 **Thoughts** The test was asking us to do a survey form for any thing following specific instruction.It asks us to style it our way .I did simple styling to it and that was fun.
+
+**Link(s) to work**
+1. [cafe Survey Form ](https://manalynx.github.io/survey-form/)
+2- [Day 5 Tweet](https://twitter.com/ManalAbobakr/status/1547865617734123520)
