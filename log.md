@@ -58,4 +58,4 @@ at freeCodeCamp.
 4- Box-shadow.\
 
 **Link(s) to work**
-1. [Day 2 Tweet]()
+1. [Day 2 Tweet](https://twitter.com/ManalAbobakr/status/1546977838946852864)
