@@ -10,7 +10,8 @@
 
 ### Day 1: July 11, 2022
 
-**Today's Progress**: I publicly announced that I'll start the challange using the hashtag #100DaysOfCode.
+**Today's Progress**: 
+1- I publicly announced that I'll start the challange using the hashtag #100DaysOfCode.
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
