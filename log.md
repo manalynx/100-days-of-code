@@ -24,12 +24,15 @@
 5- label. \
 6- borders. \ and much more. 
 
-**Link(s) to work**: [Day one's tweet](https://twitter.com/ManalAbobakr/status/1546280017172185088)
+**Link(s) to work**: [Day 1 tweet](https://twitter.com/ManalAbobakr/status/1546280017172185088)
 
 
-### Day 1: June 27, Monday
+### Day 2: July 12, 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: \
+1- Completed “Building a Cafe Menu” at freeCodeCamp. \
+2- Focused more on learning CSS . \
+3- Started the next project “ Building a Set of Colored Markers” at freeCodeCamp.
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
