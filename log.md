@@ -6,12 +6,11 @@
 
 **Thoughts:** After reading more about the challange I was so excited to start and be part of it.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** No link to be shared yet.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: July 11, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I publicly announced that I'll start the challange using the hashtag #100DaysOfCode.
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
