@@ -16,7 +16,7 @@
 3- Done with the first project “Learning HTML by building a cat photo app”.It was divided into 68 challanges.
 
 
-**Thoughts**: As it was my first time learning with FCC I found it clear and fun. During that project i learned basic HTML and CSS.At the end of the day I was satasfied.\ Some of what I learned : \
+**Thoughts**: As it was my first time learning with FCC I found it clear and fun. During that project i learned basic HTML and CSS.At the end of the day I was satasfied.Some of what I learned : \
 1- Order and unorderd lists. \
 2- Text filds. \
 3- Form element. \
@@ -52,7 +52,7 @@
 3- Started the next challenge “ Building a Registration Form” 
 at freeCodeCamp.
 
-**Thoughts** This was not my favorite project to work on, but it was rich of knowledge. \ Some of what I learned : \
+**Thoughts** This was not my favorite project to work on, but it was rich of knowledge.Some of what I learned : \
 1- Color models.\
 2- Color stop.\
 3- Opacity and Alpha.\
@@ -105,7 +105,7 @@ at freeCodeCamp.
 
 ### Day 7: July 17, 2022
 
-**Today's Progress**:\
+**Today's Progress**:  \
 - I completed the survey form's project and submitted it at FreeCodeCamp.
 
 **Thoughts** It was fun working on this project .I feel good after submitting it,i'm feeling a bit more confident of my codding skills.
@@ -121,14 +121,14 @@ at freeCodeCamp.
 1- Done with building a “Rothko Painting”  at freeCodeCamp.\
 2- Finished building a "photo gallery” at FreeCodeCamp too.
 
-**Thoughts** Both projects were teaching me a lot about directing elements and adding spaces between elements to get the fit that we are seeking to have . \ Some of what I learned : \
+**Thoughts** Both projects were teaching me a lot about directing elements and adding spaces between elements to get the fit that we are seeking to have .Some of what I learned : \
 1- CSS box model (margin,padding,and border)\
 2- CSS flexbox.\
 3- object-fit.\
 4- justify-content.\
 5- transfprm and culum-reverse.\
 6- filter.\
-7- @media.\ and much more.
+7- @media.
 
 **Link(s) to work**
 1- [Day 8 Tweet](https://twitter.com/ManalAbobakr/status/1549092247693451265)
