@@ -37,7 +37,8 @@
 **Thoughts** As a coffee lover ,I loved this project. I was doing it happly as if its a real world's project not only for learning.\ Some of what I learned : \
 1- Pseudo selector.\
 2- Dealing with div.\
-3- CSS was the main focus.
+3- CSS was the main focus.\and much more. 
+
 
 **Link(s) to work**
 1. [Day 2 Tweet](https://twitter.com/ManalAbobakr/status/1546763853429559297)
@@ -55,7 +56,22 @@ at freeCodeCamp.
 1- Color models.\
 2- Color stop.\
 3- Opacity and Alpha.\
-4- Box-shadow.\
+4- Box-shadow.\and much more. 
 
 **Link(s) to work**
-1. [Day 2 Tweet](https://twitter.com/ManalAbobakr/status/1546977838946852864)
+1. [Day 3 Tweet](https://twitter.com/ManalAbobakr/status/1546977838946852864)
+
+
+### Day 4: July 14, 2022
+
+**Today's Progress**:\
+1- Done with “ Building a Registration Form” at FreeCodeCamp.\
+2- Did some practice on using git & git hub .\
+
+**Thoughts** It was an interesting project full of valuable information as registration forms are widly used almost on every website. \ Some of what I learned : \
+1- Form validation.\
+2- Pattern.\
+3- Textarea (rows,cols).\and much more. 
+
+**Link(s) to work**
+1. [Day 4 Tweet](https://twitter.com/ManalAbobakr/status/1546977838946852864)
