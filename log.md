@@ -120,3 +120,12 @@ at freeCodeCamp.
 **Today's Progress**:\
 1- Done with building a “Rothko Painting”  at freeCodeCamp.\
 2- Finished building a "photo gallery” at FreeCodeCamp too.
+
+**Thoughts** Both projects were teaching me a lot about directing elements and adding spaces between elements to get the fit that we are seeking to have . \ Some of what I learned : \
+1- CSS box model (margin,padding,and border)\
+2- CSS flexbox.\
+3- object-fit.\
+4- justify-content.\
+5- transfprm and culum-reverse.\
+6- filter.\
+7- @media.\ and much more.
