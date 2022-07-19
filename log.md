@@ -113,3 +113,10 @@ at freeCodeCamp.
 **Link(s) to work**
 1. [cafe Survey Form ](https://manalynx.github.io/survey-form/)
 2- [Day 7 Tweet](https://twitter.com/ManalAbobakr/status/1548782823749734400)
+
+
+### Day 8: July 18, 2022
+
+**Today's Progress**:\
+1- Done with building a “Rothko Painting”  at freeCodeCamp.\
+2- Finished building a "photo gallery” at FreeCodeCamp too.
