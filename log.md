@@ -41,3 +41,17 @@
 
 **Link(s) to work**
 1. [Day 2 Tweet](https://twitter.com/ManalAbobakr/status/1546763853429559297)
+
+
+### Day 3: July 13, 2022
+
+**Today's Progress**:\
+1- Completed “Building a Set of Colored Markers” at freeCodeCamp.\
+2- Prepared a list of projects I want to build . (It’ll be updated)\
+3- Started the next challenge “ Building a Registration Form” 
+at freeCodeCamp.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Day 2 Tweet]()
