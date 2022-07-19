@@ -100,7 +100,7 @@ at freeCodeCamp.
 
 **Link(s) to work**
 1. [cafe Survey Form ](https://manalynx.github.io/survey-form/)
-2- [Day 5 Tweet](https://twitter.com/ManalAbobakr/status/1548311233199190017)
+2- [Day 6 Tweet](https://twitter.com/ManalAbobakr/status/1548311233199190017)
 
 
 ### Day 7: July 17, 2022
@@ -108,4 +108,8 @@ at freeCodeCamp.
 **Today's Progress**:\
 - I completed the survey form's project and submitted it at FreeCodeCamp.
 
-**Thoughts** It was fun working on this project .I feel good after submitting it more confident of my codding skills.
+**Thoughts** It was fun working on this project .I feel good after submitting it,i'm feeling a bit more confident of my codding skills.
+
+**Link(s) to work**
+1. [cafe Survey Form ](https://manalynx.github.io/survey-form/)
+2- [Day 7 Tweet](https://twitter.com/ManalAbobakr/status/1548782823749734400)
