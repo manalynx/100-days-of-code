@@ -17,12 +17,12 @@
 
 
 **Thoughts**: As it was my first time learning with FCC I found it clear and fun. During that project i learned basic HTML and CSS.At the end of the day I was satasfied.\ Some of what I learned : \
-1- order and unorderd lists. \
+1- Order and unorderd lists. \
 2- Text filds. \
 3- Form element. \
 4- Types of input (submit , radio , checkbox). \
 5- label. \
-6- borders. \ and much more. 
+6- Borders. \ and much more. 
 
 **Link(s) to work**: [Day 1 Tweet](https://twitter.com/ManalAbobakr/status/1546280017172185088)
 
@@ -35,7 +35,7 @@
 3- Started the next project “ Building a Set of Colored Markers” at freeCodeCamp.
 
 **Thoughts** As a coffee lover ,I loved this project. I was doing it happly as if its a real world's project not only for learning.\ Some of what I learned : \
-1- pseudo selector.\
+1- Pseudo selector.\
 2- Dealing with div.\
 3- CSS was the main focus.
 
@@ -51,7 +51,11 @@
 3- Started the next challenge “ Building a Registration Form” 
 at freeCodeCamp.
 
-**Thoughts** 
+**Thoughts** This was not my favorite project to work on, but it was rich of knowledge. \ Some of what I learned : \
+1- Color models.\
+2- Color stop.\
+3- Opacity and Alpha.\
+4- Box-shadow.\
 
 **Link(s) to work**
 1. [Day 2 Tweet]()
