@@ -24,7 +24,7 @@
 5- label. \
 6- borders. \ and much more. 
 
-**Link(s) to work**: [Day 1 tweet](https://twitter.com/ManalAbobakr/status/1546280017172185088)
+**Link(s) to work**: [Day 1 Tweet](https://twitter.com/ManalAbobakr/status/1546280017172185088)
 
 
 ### Day 2: July 12, 2022
@@ -40,5 +40,4 @@
 3- CSS was the main focus.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Day 2 Tweet](https://twitter.com/ManalAbobakr/status/1546763853429559297)
