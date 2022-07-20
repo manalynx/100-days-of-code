@@ -141,7 +141,12 @@ at freeCodeCamp.
 2- Finally forked (100-days-of-code) to my PC and started to update my log then I pushed it to my GitHub. \
 3- Git & GitHub were the main focus today.
 
-**Thoughts** It was a good codding day. enjoyed working with git and GitHub .My skills are improving day to day.
+**Thoughts** It was a good codding day. enjoyed working with git and GitHub .My skills are improving day to day.Some of what I learned : \
+1- box-sizing.\
+2- font-weight.\
+3- letter-spacing.\
+4- float.\
+5- rem (root em).
 
 **Link(s) to work**
 1- [Day 9 Tweet](https://twitter.com/ManalAbobakr/status/1549494501273907200)
