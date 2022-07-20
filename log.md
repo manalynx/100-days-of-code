@@ -150,3 +150,7 @@ at freeCodeCamp.
 
 **Link(s) to work**
 1- [Day 9 Tweet](https://twitter.com/ManalAbobakr/status/1549494501273907200)
+
+
+### Day 10: July 20, 2022
+
