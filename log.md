@@ -154,3 +154,4 @@ at freeCodeCamp.
 
 ### Day 10: July 20, 2022
 
+**Today's Progress**:\
