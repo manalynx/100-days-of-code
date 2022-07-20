@@ -164,5 +164,5 @@ at freeCodeCamp.
 2- position text using CSS.
 
 **Link(s) to work**
-1- [Day 10 Tweet](https://twitter.com/ManalAbobakr/status/1549830187764060160)
+1- [Day 10 Tweet](https://twitter.com/ManalAbobakr/status/1549830187764060160).
 
