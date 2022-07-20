@@ -157,3 +157,5 @@ at freeCodeCamp.
 **Today's Progress**:\
 1- Done building a nutrition label at freeCodeCamp. It was consist of 66 challanges to finish the whole project.
 2- Updated my log on GitHub, using VS code & Git.
+
+**Thoughts**
