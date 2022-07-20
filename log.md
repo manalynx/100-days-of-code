@@ -155,3 +155,4 @@ at freeCodeCamp.
 ### Day 10: July 20, 2022
 
 **Today's Progress**:\
+1- Done building a nutrition label at freeCodeCamp. It was consist of 66 challanges to finish the whole project.
