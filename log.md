@@ -174,3 +174,5 @@ at freeCodeCamp.
 2- Reached Step number 26 on bulding the quiz website.\
 3- Done with 47% of bulding the quiz website.\
 4- Pushed my updated log to GitHub.
+
+**Thoughts** I did not code much today but I learned so much about accessibility tools.
