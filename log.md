@@ -178,3 +178,4 @@ at freeCodeCamp.
 **Thoughts** I did not code much today but I learned so much about accessibility tools.Some of what I learned : \
 1- Learned more about meta tags.\
 2- role attribute.\
+3- Navigate elements within the webpage.\
