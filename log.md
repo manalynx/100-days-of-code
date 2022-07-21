@@ -157,6 +157,7 @@ at freeCodeCamp.
 **Today's Progress**:\
 1- Done building a nutrition label at freeCodeCamp. It was consist of 66 challanges to finish the whole project.\
 2- Updated my log on GitHub, using VS code & Git.
+3- Googling and researching 
 
 **Thoughts** Building a nutrition label was full of addvantages to my skills dealing with typography.During this course I used typography to build a nutrition label webpage.Some of what I learned : \
 1- how to style text
