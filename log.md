@@ -175,4 +175,6 @@ at freeCodeCamp.
 3- Done with 47% of bulding the quiz website.\
 4- Pushed my updated log to GitHub.
 
-**Thoughts** I did not code much today but I learned so much about accessibility tools.
+**Thoughts** I did not code much today but I learned so much about accessibility tools.Some of what I learned : \
+1- Learned more about meta tags.\
+2- role attribute.\
