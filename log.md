@@ -41,7 +41,7 @@
 
 
 **Link(s) to work**
-1- [Day 2 Tweet](https://twitter.com/ManalAbobakr/status/1546763853429559297)
+[Day 2 Tweet](https://twitter.com/ManalAbobakr/status/1546763853429559297)
 
 
 ### Day 3: July 13, 2022
@@ -59,7 +59,7 @@ at freeCodeCamp.
 4- Box-shadow.\and much more. 
 
 **Link(s) to work**
-1- [Day 3 Tweet](https://twitter.com/ManalAbobakr/status/1546977838946852864)
+[Day 3 Tweet](https://twitter.com/ManalAbobakr/status/1546977838946852864)
 
 
 ### Day 4: July 14, 2022
@@ -74,7 +74,7 @@ at freeCodeCamp.
 3- Textarea (rows,cols).\and much more. 
 
 **Link(s) to work**
-1- [Day 4 Tweet](https://twitter.com/ManalAbobakr/status/1547481934468526081)
+[Day 4 Tweet](https://twitter.com/ManalAbobakr/status/1547481934468526081)
 
 
 ### Day 5: July 15, 2022
@@ -131,7 +131,7 @@ at freeCodeCamp.
 7- @media.
 
 **Link(s) to work**
-1- [Day 8 Tweet](https://twitter.com/ManalAbobakr/status/1549092247693451265)
+[Day 8 Tweet](https://twitter.com/ManalAbobakr/status/1549092247693451265)
 
 
 ### Day 9: July 19, 2022
@@ -149,7 +149,7 @@ at freeCodeCamp.
 5- rem (root em).
 
 **Link(s) to work**
-1- [Day 9 Tweet](https://twitter.com/ManalAbobakr/status/1549494501273907200)
+[Day 9 Tweet](https://twitter.com/ManalAbobakr/status/1549494501273907200)
 
 
 ### Day 10: July 20, 2022
@@ -166,7 +166,7 @@ at freeCodeCamp.
 4- not pseudo selector.
 
 **Link(s) to work**
-1- [Day 10 Tweet](https://twitter.com/ManalAbobakr/status/1549830187764060160).
+[Day 10 Tweet](https://twitter.com/ManalAbobakr/status/1549830187764060160).
 
 
 ### Day 11: July 21, 2022
@@ -183,5 +183,5 @@ at freeCodeCamp.
 5- legend and ::before pseudo-element.
 
 **Link(s) to work**
-1- [Day 11 Tweet](https://twitter.com/ManalAbobakr/status/1550186586671054848).
+[Day 11 Tweet](https://twitter.com/ManalAbobakr/status/1550186586671054848).
 
