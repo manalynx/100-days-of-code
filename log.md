@@ -179,3 +179,4 @@ at freeCodeCamp.
 1- Learned more about meta tags.\
 2- role attribute.\
 3- Navigate elements within the webpage.\
+4- sr-only text.\
