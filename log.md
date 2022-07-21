@@ -180,3 +180,4 @@ at freeCodeCamp.
 2- role attribute.\
 3- Navigate elements within the webpage.\
 4- sr-only text.\
+5- legend and ::before pseudo-element.
