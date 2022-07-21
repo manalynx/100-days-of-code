@@ -171,8 +171,8 @@ at freeCodeCamp.
 
 ### Day 11: July 21, 2022
 1- Started to build a quiz webpage at FreeCodeCamp.Accessibility is the main focusduring this project.\
-2- Reached Step number 26 on bulding the quiz website.\
-3- Done with 47% of bulding the quiz website.\
+2- Reached Step number 26 on building  the quiz webpage.\
+3- Done with 47% of building  the quiz website.\
 4- Pushed my updated log to GitHub.
 
 **Thoughts** I did not code much today but I learned so much about accessibility tools.Some of what I learned : \
@@ -181,3 +181,7 @@ at freeCodeCamp.
 3- Navigate elements within the webpage.\
 4- sr-only text.\
 5- legend and ::before pseudo-element.
+
+**Link(s) to work**
+1- [Day 11 Tweet](https://twitter.com/ManalAbobakr/status/1550186586671054848).
+
