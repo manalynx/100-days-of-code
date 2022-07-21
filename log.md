@@ -162,7 +162,8 @@ at freeCodeCamp.
 **Thoughts** Building a nutrition label was full of addvantages to my skills dealing with typography.During this course I used typography to build a nutrition label webpage.Some of what I learned : \
 1- how to style text
 2- Adjust line height
-2- position text using CSS.
+3- position text using CSS.
+4- not pseudo selector.
 
 **Link(s) to work**
 1- [Day 10 Tweet](https://twitter.com/ManalAbobakr/status/1549830187764060160).
