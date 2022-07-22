@@ -191,4 +191,6 @@ at freeCodeCamp.
 2-  Done with building  the quiz website.\
 3- Pushed my updated log to GitHub.
 
-**Thoughts**
+**Thoughts** today's progress was slow I resumed building the quiz webpage and hardly finished it.\
+Some of what I learned : \
+1-
