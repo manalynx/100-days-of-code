@@ -185,3 +185,5 @@ at freeCodeCamp.
 **Link(s) to work**
 [Day 11 Tweet](https://twitter.com/ManalAbobakr/status/1550186586671054848).
 
+
+### Day 12: July 22, 2022
