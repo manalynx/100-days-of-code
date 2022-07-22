@@ -187,3 +187,4 @@ at freeCodeCamp.
 
 
 ### Day 12: July 22, 2022
+1- Resumed building a quiz webpage at FreeCodeCamp.
