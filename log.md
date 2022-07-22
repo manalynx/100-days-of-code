@@ -195,3 +195,4 @@ at freeCodeCamp.
 Some of what I learned : \
 1- ARIA attributes.\
 2- New SCC selectors.\
+3- footer and address.\
