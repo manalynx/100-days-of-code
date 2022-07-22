@@ -190,3 +190,5 @@ at freeCodeCamp.
 1- Resumed building a quiz webpage at FreeCodeCamp.\
 2-  Done with building  the quiz website.\
 3- Pushed my updated log to GitHub.
+
+**Thoughts**
