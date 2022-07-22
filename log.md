@@ -188,7 +188,7 @@ at freeCodeCamp.
 
 ### Day 12: July 22, 2022
 1- Resumed building a quiz webpage at FreeCodeCamp.\
-2-  Done with building  the quiz website.\
+2- Done with building  the quiz website.\
 3- Pushed my updated log to GitHub.
 
 **Thoughts** today's progress was slow I resumed building the quiz webpage and hardly finished it.\
@@ -199,3 +199,4 @@ Some of what I learned : \
 4- More about flexbox.\
 
 **Link(s) to work**
+[Day 12 Tweet](https://twitter.com/ManalAbobakr/status/1550568181722656768)
