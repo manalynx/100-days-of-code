@@ -193,4 +193,5 @@ at freeCodeCamp.
 
 **Thoughts** today's progress was slow I resumed building the quiz webpage and hardly finished it.\
 Some of what I learned : \
-1-
+1- ARIA attributes.\
+2- New SCC selectors.\
