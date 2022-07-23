@@ -207,3 +207,5 @@ Some of what I learned : \
 ### Day 13: July 23, 2022
 1- Revised HTML tags.\
 2- Learned new CSS properties.\
+3- Started to build the tribute page at FreeCodeCamp.\
+4- Done with adding all the required elements to the atribute page.\
