@@ -203,3 +203,4 @@ Some of what I learned : \
 
 
 ### Day 13: July 23, 2022
+1- Revised HTML tags.\
