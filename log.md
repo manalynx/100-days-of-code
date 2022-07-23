@@ -210,3 +210,5 @@ Some of what I learned : \
 3- Started to build the tribute page at FreeCodeCamp.\
 4- Done with adding all the required elements to the atribute page.\
 5- Passed the test (without style yet only coded the main requierments).\
+
+**Thoughts**
