@@ -188,6 +188,7 @@ at freeCodeCamp.
 
 
 ### Day 12: July 22, 2022
+**Today's Progress**:\
 1- Resumed building a quiz webpage at FreeCodeCamp.\
 2- Done with building  the quiz website.\
 3- Pushed my updated log to GitHub.
