@@ -170,6 +170,7 @@ at freeCodeCamp.
 
 
 ### Day 11: July 21, 2022
+**Today's Progress**:\
 1- Started to build a quiz webpage at FreeCodeCamp.Accessibility is the main focusduring this project.\
 2- Reached Step number 26 on building  the quiz webpage.\
 3- Done with 47% of building  the quiz website.\
