@@ -213,3 +213,4 @@ Some of what I learned : \
 
 **Thoughts** Revising html and scc helped me for more understanding to the main concepts of both of them.\
 Some of what I learned : \
+1- More about selectors.\
