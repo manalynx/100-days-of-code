@@ -211,4 +211,5 @@ Some of what I learned : \
 4- Done with adding all the required elements to the atribute page.\
 5- Passed the test (without style yet only coded the main requierments).\
 
-**Thoughts** Revising html and scc helped me for more understanding to the main concepts of both of them.
+**Thoughts** Revising html and scc helped me for more understanding to the main concepts of both of them.\
+Some of what I learned : \
