@@ -200,3 +200,6 @@ Some of what I learned : \
 
 **Link(s) to work**
 [Day 12 Tweet](https://twitter.com/ManalAbobakr/status/1550568181722656768)
+
+
+### Day 13: July 23, 2022
