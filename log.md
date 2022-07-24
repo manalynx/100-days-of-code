@@ -219,3 +219,6 @@ Some of what I learned : \
 
 **Link(s) to work**
 [Day 13 Tweet](https://twitter.com/ManalAbobakr/status/1550972323758764033)
+
+
+### Day 14: July 24 2022
