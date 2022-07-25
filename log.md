@@ -227,3 +227,5 @@ Some of what I learned : \
 1- Started to build a balance sheet using pseudo selectors at FreeCodeCamp.
 2- Reached to the step number 20 building a balance sheet.
 3- Pushed my updated log to GitHub.
+
+**Thoughts**
