@@ -238,6 +238,7 @@ some of what I learned : \
 
 
 ### Day 15: July 25 2022
+**Today's Progress**:\
 1- Resumed working on building balance sheet.\
 2- Done with building balance sheet at CFF.
 
