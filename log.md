@@ -231,3 +231,4 @@ Some of what I learned : \
 **Thoughts** Today's progress was very slow due health issue but I managed to to some challanges to build a balance sheet.\
 some of what I learned : \
 1- CSS pseudo selectors.
+2- Table tag and its related elements (thead , tbody,tr,td,th)
