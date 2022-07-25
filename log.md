@@ -239,7 +239,8 @@ some of what I learned : \
 
 ### Day 15: July 25 2022
 1- Resumed working on building balance sheet.\
-2- Done with building balance sheet at CFF.\
+2- Done with building balance sheet at CFF.
 
 **Thoughts** Today's progress was all about pseudo selectors.I still couldn't understand them clearly .It needs more search and concentrating for better understanding.\
 some of what I learned : \
+1- More about tables and caption.
