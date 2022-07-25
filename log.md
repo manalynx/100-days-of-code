@@ -239,3 +239,4 @@ some of what I learned : \
 
 ### Day 15: July 25 2022
 1- Resumed working on building balance sheet.\
+2- Reached 50% of building balance sheet.\
