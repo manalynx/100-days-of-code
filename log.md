@@ -224,13 +224,13 @@ Some of what I learned : \
 
 ### Day 14: July 24 2022
 **Today's Progress**:\
-1- Started to build a balance sheet using pseudo selectors at FreeCodeCamp.
-2- Reached to the step number 20 building a balance sheet.
-3- Pushed my updated log to GitHub.
+1- Started to build a balance sheet using pseudo selectors at FreeCodeCamp.\
+2- Reached to the step number 20 building a balance sheet.\
+3- Pushed my updated log to GitHub.\
 
 **Thoughts** Today's progress was very slow due health issue but I managed to to some challanges to build a balance sheet.\
 some of what I learned : \
-1- CSS pseudo selectors.
+1- CSS pseudo selectors.\
 2- Table tag and its related elements (thead , tbody,tr,td,th)
 
 **Link(s) to work**
