@@ -242,3 +242,4 @@ some of what I learned : \
 2- Done with building balance sheet at CFF.\
 
 **Thoughts** Today's progress was all about pseudo selectors.I still couldn't understand them clearly .It needs more search and concentrating for better understanding.\
+some of what I learned : \
