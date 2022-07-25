@@ -239,5 +239,5 @@ some of what I learned : \
 
 ### Day 15: July 25 2022
 1- Resumed working on building balance sheet.\
-2- Reached 61% of building balance sheet.\
-3- Styled html table with CSS.
+2- Reached 80% of building balance sheet.\
+3- Styled html table with CSS.\
