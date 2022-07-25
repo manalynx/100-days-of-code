@@ -225,4 +225,4 @@ Some of what I learned : \
 ### Day 14: July 24 2022
 **Today's Progress**:\
 1- Started to build a balance sheet using pseudo selectors at FreeCodeCamp.
-2-
+2- Reached to the step number 20 building a balance sheet.
