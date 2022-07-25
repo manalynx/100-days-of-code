@@ -228,4 +228,6 @@ Some of what I learned : \
 2- Reached to the step number 20 building a balance sheet.
 3- Pushed my updated log to GitHub.
 
-**Thoughts**
+**Thoughts** Today's progress was very slow due health issue but I managed to to some challanges to build a balance sheet.\
+some of what I learned : \
+1- CSS pseudo selectors.
