@@ -246,3 +246,4 @@ some of what I learned : \
 1- More about tables and caption.\
 2- More about sr-only.\
 3- clip and clip-path.\
+4-  CSS pseudo selectors.
