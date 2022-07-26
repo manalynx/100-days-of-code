@@ -256,6 +256,8 @@ some of what I learned : \
 ### Day 16: July 26 2022
 **Today's Progress**:\
 1- Starting building a picaso painting at FreeCodeCamp.\
-2- Done with 39% of the project.\
+2- Done with 39% of the project.
 
-**Thoughts** Today's progress mainly focused on learning how to use some intermediate CSS techniques by coding my own Picasso painting webpage. learn about SVG icons, CSS positioning, and review other CSS skills
+**Thoughts** Today's progress mainly focused on learning how to use some intermediate CSS techniques by coding my own Picasso painting webpage. learn about SVG icons, CSS positioning, and review other CSS skills.\
+some of what I learned : \
+1- some intermediate CSS
