@@ -257,3 +257,5 @@ some of what I learned : \
 **Today's Progress**:\
 1- Starting building a picaso painting at FreeCodeCamp.\
 2- Done with 39% of the project.\
+
+**Thoughts**
