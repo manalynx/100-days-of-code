@@ -260,4 +260,5 @@ some of what I learned : \
 
 **Thoughts** Today's progress mainly focused on learning how to use some intermediate CSS techniques by coding my own Picasso painting webpage. learn about SVG icons, CSS positioning, and review other CSS skills.\
 some of what I learned : \
-1- some intermediate CSS
+1- some intermediate CSS\
+2- SVG icons, CSS positioning, and review other CSS skills.\
