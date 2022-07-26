@@ -262,3 +262,4 @@ some of what I learned : \
 some of what I learned : \
 1- some intermediate CSS\
 2- SVG icons, CSS positioning, and review other CSS skills.\
+3- learned more about z-index.
