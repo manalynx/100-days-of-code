@@ -254,3 +254,4 @@ some of what I learned : \
 
 
 ### Day 16: July 26 2022
+**Today's Progress**:\
