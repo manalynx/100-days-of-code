@@ -256,3 +256,4 @@ some of what I learned : \
 ### Day 16: July 26 2022
 **Today's Progress**:\
 1- Starting building a picaso painting at FreeCodeCamp.\
+2- Done with 21% of the project.\
