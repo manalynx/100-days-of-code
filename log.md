@@ -270,3 +270,4 @@ some of what I learned : \
 
 ### Day 17: July 27 2022
 **Today's Progress**:\
+1- Resumed to work on building a picaso painting at FreeCodeCamp.\
