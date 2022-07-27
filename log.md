@@ -279,3 +279,4 @@ the project focused mainly on SVG icons, CSS positioning.\
 Then i finished building a piano using html and CSS too.This project focused on media queries and pseudo selectors.\
 Some of what I learned : \
 1- <i> element.\
+2- ::before & ::after selectors.
