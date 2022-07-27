@@ -272,3 +272,4 @@ some of what I learned : \
 **Today's Progress**:\
 1- Resumed to work on building a picaso painting at FreeCodeCamp.\
 2-  Done with the painting project.\
+3- Started with the next project at FCC ,code to build a piano.\
