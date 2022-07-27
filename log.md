@@ -285,4 +285,4 @@ Some of what I learned : \
 4- content"" (setted to an empty string).
 
 **Link(s) to work**
-[Day 17 Tweet]()
+[Day 17 Tweet](https://twitter.com/ManalAbobakr/status/1552385231180943360)
