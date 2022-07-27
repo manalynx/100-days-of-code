@@ -280,4 +280,4 @@ Then i finished building a piano using html and CSS too.This project focused on 
 Some of what I learned : \
 1- i element.\
 2- : :before & : :after selectors.\
-3- More about @media '
+3- More about @media.
