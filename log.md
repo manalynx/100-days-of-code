@@ -281,3 +281,4 @@ Some of what I learned : \
 1- i element.\
 2- : :before & : :after selectors.\
 3- More about @media.
+4- content"" (setted to an empty string).
