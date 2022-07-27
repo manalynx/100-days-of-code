@@ -284,3 +284,4 @@ Some of what I learned : \
 4- content"" (setted to an empty string).
 
 **Link(s) to work**
+[Day 17 Tweet]()
