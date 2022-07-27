@@ -277,3 +277,4 @@ some of what I learned : \
 **Thoughts** Today's progress was very good compared to the past two days. I completed bulding a painting using html and CSS\
 the project focused mainly on SVG icons, CSS positioning.\
 Then i finished building a piano using html and CSS too.This project focused on media queries and pseudo selectors.\
+Some of what I learned : \
