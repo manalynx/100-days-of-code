@@ -274,4 +274,4 @@ some of what I learned : \
 2- Done with the painting project.\
 3- Started with the next project at FCC ,code to build a piano.\
 
-**Thoughts**
+**Thoughts** Today's progress was very good compared to the past two days.
