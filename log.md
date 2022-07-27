@@ -269,3 +269,4 @@ some of what I learned : \
 
 
 ### Day 17: July 27 2022
+**Today's Progress**:\
