@@ -274,5 +274,6 @@ some of what I learned : \
 2- Done with the painting project.\
 3- Started with the next project at FCC ,code to build a piano.\
 
-**Thoughts** Today's progress was very good compared to the past two days. I completed bulding a painting using html and CSS
-the project focused mainly on SVG icons, CSS positioning.
+**Thoughts** Today's progress was very good compared to the past two days. I completed bulding a painting using html and CSS\
+the project focused mainly on SVG icons, CSS positioning.\
+Then i finished building a piano using html and CSS too.
