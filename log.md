@@ -293,4 +293,5 @@ Some of what I learned : \
 1- started to do the test's project "build a technical documentation" at FreeCodeCamp.\
 2- Coded all the requird elements (without styling).
 
-**Thoughts**
+**Thoughts** Today I did not do much . I started doing one of the test's projects at FreeCodeCamp which is\
+ "build a technichal documentation page".
