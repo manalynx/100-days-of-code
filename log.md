@@ -300,4 +300,4 @@ Some of what I learned : \
  I learned throughout the course up to today
 
  **Link(s) to work**
- [Day 18 Tweet]()
+ [Day 18 Tweet](https://twitter.com/ManalAbobakr/status/1552779284347240450)
