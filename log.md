@@ -296,3 +296,5 @@ Some of what I learned : \
 **Thoughts** Today I did not do much . I started doing one of the test's projects at FreeCodeCamp which is\
  "build a technichal documentation page". I coded all the required elements and passed all the tests but still did not add any CSS style.\
  Some of what I learned : \
+ I did not learn any new things while doing the test project.I was revising almost everything \
+ I learned throughout the course up to today
