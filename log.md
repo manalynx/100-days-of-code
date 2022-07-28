@@ -289,3 +289,4 @@ Some of what I learned : \
 
 
 ### Day 18: July 28 2022
+**Today's Progress**:\
