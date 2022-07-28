@@ -300,3 +300,4 @@ Some of what I learned : \
  I learned throughout the course up to today
 
  **Link(s) to work**
+ [Day 18 Tweet]()
