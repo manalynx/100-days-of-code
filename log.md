@@ -290,3 +290,4 @@ Some of what I learned : \
 
 ### Day 18: July 28 2022
 **Today's Progress**:\
+1- started to do the test's project "build a technical documentation" at FreeCodeCamp.\
