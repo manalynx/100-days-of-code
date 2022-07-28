@@ -294,4 +294,4 @@ Some of what I learned : \
 2- Coded all the requird elements (without styling).
 
 **Thoughts** Today I did not do much . I started doing one of the test's projects at FreeCodeCamp which is\
- "build a technichal documentation page".
+ "build a technichal documentation page". I coded all the required elements and passed all the tests but still did not add any CSS style.
