@@ -292,3 +292,5 @@ Some of what I learned : \
 **Today's Progress**:\
 1- started to do the test's project "build a technical documentation" at FreeCodeCamp.\
 2- Coded all the requird elements (without styling).
+
+**Thoughts**
