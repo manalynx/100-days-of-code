@@ -306,3 +306,4 @@ Some of what I learned : \
  ### Day 19: July 30 2022
  **Today's Progress**:\
  1- Submitted the "Technical Documentation page".
+ 2- Started to build a city skyline.
