@@ -301,3 +301,6 @@ Some of what I learned : \
 
  **Link(s) to work**
  [Day 18 Tweet](https://twitter.com/ManalAbobakr/status/1552779284347240450)
+
+
+ ### Day 19: July 30 2022
