@@ -308,4 +308,6 @@ Some of what I learned : \
  1- Submitted the "Technical Documentation page".\
  2- Started to build a city skyline.
 
- **Thoughts** I struggled with my energy to push myself through today's progress. I didn't style the project properly I passed all the tests to submit it. I will re-do it again using vs code and will push my own version to my GitHub account
+ **Thoughts** I struggled with my energy to push myself through today's progress. I didn't style the project properly I passed all the tests to submit it. I will re-do it again using vs code and will push my own version to my GitHub account.
+
+  **Link(s) to work**
