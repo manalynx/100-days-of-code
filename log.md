@@ -4,7 +4,8 @@
 
 **Today's Progress**: No progress yet. Today was the first time I heard about this interesting challange. My friend Imran intreduced the "100 days of code" to me and i liked the idea. I checked FreeCodeCamp and decided i will start this challange with it and see how far i can go.
 
-**Thoughts:** After reading more about the challange I was so excited to start and be part of it.
+**Thoughts:**:\
+After reading more about the challange I was so excited to start and be part of it.
 
 **Link to work:** No link to be shared yet.
 
@@ -16,7 +17,8 @@
 3- Done with the first project “Learning HTML by building a cat photo app”.It was divided into 68 challanges.
 
 
-**Thoughts**: As it was my first time learning with FCC I found it clear and fun. During that project i learned basic HTML and CSS.At the end of the day I was satasfied.Some of what I learned : \
+**Thoughts**:\
+As it was my first time learning with FCC I found it clear and fun. During that project i learned basic HTML and CSS.At the end of the day I was satasfied.Some of what I learned : \
 1- Order and unorderd lists. \
 2- Text filds. \
 3- Form element. \
@@ -34,7 +36,8 @@
 2- Focused more on learning CSS . \
 3- Started the next project “ Building a Set of Colored Markers” at freeCodeCamp.
 
-**Thoughts** As a coffee lover ,I loved this project. I was doing it happly as if its a real world's project not only for learning.\ Some of what I learned : \
+**Thoughts**:\
+As a coffee lover ,I loved this project. I was doing it happly as if its a real world's project not only for learning.\ Some of what I learned : \
 1- Pseudo selector.\
 2- Dealing with div.\
 3- CSS was the main focus.\and much more. 
@@ -52,7 +55,8 @@
 3- Started the next challenge “ Building a Registration Form” 
 at freeCodeCamp.
 
-**Thoughts** This was not my favorite project to work on, but it was rich of knowledge.Some of what I learned : \
+**Thoughts**:\
+This was not my favorite project to work on, but it was rich of knowledge.Some of what I learned : \
 1- Color models.\
 2- Color stop.\
 3- Opacity and Alpha.\
@@ -68,7 +72,8 @@ at freeCodeCamp.
 1- Done with “ Building a Registration Form” at FreeCodeCamp.\
 2- Did some practice on using git & git hub .
 
-**Thoughts** It was an interesting project full of valuable information as registration forms are widly used almost on every website. \ Some of what I learned : \
+**Thoughts**:\
+It was an interesting project full of valuable information as registration forms are widly used almost on every website. \ Some of what I learned : \
 1- Form validation.\
 2- Pattern.\
 3- Textarea (rows,cols).\and much more. 
@@ -83,7 +88,8 @@ at freeCodeCamp.
 1- Half way doing the test’s project “Survey Form “ at freeCodeCamp.\
 2- Dived more into SCC.
 
-**Thoughts** The test was asking us to do a survey form for any thing following specific instruction.It asks us to style it our way .I did simple styling to it and that was fun.
+**Thoughts**:\
+The test was asking us to do a survey form for any thing following specific instruction.It asks us to style it our way .I did simple styling to it and that was fun.
 
 **Link(s) to work**
 1- [cafe Survey Form ](https://manalynx.github.io/survey-form/)
@@ -96,7 +102,8 @@ at freeCodeCamp.
 1- I'v completed all the instructions  provided to finish the "survey form".\
 2- I added all the requested elements without styling.
 
-**Thoughts** Today I was lazy and unsatasfied with my progress but still I did all what I could do.
+**Thoughts**:\
+Today I was lazy and unsatasfied with my progress but still I did all what I could do.
 
 **Link(s) to work**
 1- [cafe Survey Form ](https://manalynx.github.io/survey-form/)
@@ -108,7 +115,8 @@ at freeCodeCamp.
 **Today's Progress**:  
 - I completed the survey form's project and submitted it at FreeCodeCamp.
 
-**Thoughts** It was fun working on this project .I feel good after submitting it,i'm feeling a bit more confident of my codding skills.
+**Thoughts**:\
+It was fun working on this project .I feel good after submitting it,i'm feeling a bit more confident of my codding skills.
 
 **Link(s) to work**
 1- [cafe Survey Form ](https://manalynx.github.io/survey-form/)
@@ -121,7 +129,8 @@ at freeCodeCamp.
 1- Done with building a “Rothko Painting”  at freeCodeCamp.\
 2- Finished building a "photo gallery” at FreeCodeCamp too.
 
-**Thoughts** Both projects were teaching me a lot about directing elements and adding spaces between elements to get the fit that we are seeking to have .Some of what I learned : \
+**Thoughts**:\
+Both projects were teaching me a lot about directing elements and adding spaces between elements to get the fit that we are seeking to have .Some of what I learned : \
 1- CSS box model (margin,padding,and border)\
 2- CSS flexbox.\
 3- object-fit.\
@@ -141,7 +150,8 @@ at freeCodeCamp.
 2- Finally forked (100-days-of-code) to my PC and started to update my log then I pushed it to my GitHub. \
 3- Git & GitHub were the main focus today.
 
-**Thoughts** It was a good codding day. enjoyed working with git and GitHub .My skills are improving day to day.Some of what I learned : \
+**Thoughts**:\
+It was a good codding day. enjoyed working with git and GitHub .My skills are improving day to day.Some of what I learned : \
 1- box-sizing.\
 2- font-weight.\
 3- letter-spacing.\
@@ -159,7 +169,8 @@ at freeCodeCamp.
 2- Updated my log on GitHub, using VS code & Git.
 3- Googling and researching 
 
-**Thoughts** Building a nutrition label was full of addvantages to my skills dealing with typography.During this course I used typography to build a nutrition label webpage.Some of what I learned : \
+**Thoughts**:\
+Building a nutrition label was full of addvantages to my skills dealing with typography.During this course I used typography to build a nutrition label webpage.Some of what I learned : \
 1- how to style text
 2- Adjust line height
 3- position text using CSS.
@@ -176,7 +187,8 @@ at freeCodeCamp.
 3- Done with 47% of building  the quiz website.\
 4- Pushed my updated log to GitHub.
 
-**Thoughts** I did not code much today but I learned so much about accessibility tools.Some of what I learned : \
+**Thoughts**:\
+I did not code much today but I learned so much about accessibility tools.Some of what I learned : \
 1- Learned more about meta tags.\
 2- role attribute.\
 3- Navigate elements within the webpage.\
@@ -193,7 +205,8 @@ at freeCodeCamp.
 2- Done with building  the quiz website.\
 3- Pushed my updated log to GitHub.
 
-**Thoughts** today's progress was slow I resumed building the quiz webpage and hardly finished it.\
+**Thoughts**:\
+Today's progress was slow I resumed building the quiz webpage and hardly finished it.\
 Some of what I learned : \
 1- ARIA attributes.\
 2- New SCC selectors.\
@@ -212,7 +225,8 @@ Some of what I learned : \
 4- Done with adding all the required elements to the atribute page.\
 5- Passed the test (without style yet only coded the main requierments).\
 
-**Thoughts** Revising html and scc helped me for more understanding to the main concepts of both of them.\
+**Thoughts**:\
+Revising html and scc helped me for more understanding to the main concepts of both of them.\
 Some of what I learned : \
 1- More about selectors.\
 2- Targeting specific attribute within an element.\
@@ -228,7 +242,8 @@ Some of what I learned : \
 2- Reached to the step number 20 building a balance sheet.\
 3- Pushed my updated log to GitHub.
 
-**Thoughts** Today's progress was very slow due health issue but I managed to to some challanges to build a balance sheet.\
+**Thoughts**:\
+Today's progress was very slow due health issue but I managed to to some challanges to build a balance sheet.\
 some of what I learned : \
 1- CSS pseudo selectors.\
 2- Table tag and its related elements (thead , tbody,tr,td,th)
@@ -242,7 +257,8 @@ some of what I learned : \
 1- Resumed working on building balance sheet.\
 2- Done with building balance sheet at CFF.
 
-**Thoughts** Today's progress was all about pseudo selectors.I still couldn't understand them clearly .It needs more search and concentrating for better understanding.\
+**Thoughts**:\
+Today's progress was all about pseudo selectors.I still couldn't understand them clearly .It needs more search and concentrating for better understanding.\
 some of what I learned : \
 1- More about tables and caption.\
 2- More about sr-only.\
@@ -258,7 +274,8 @@ some of what I learned : \
 1- Starting building a picaso painting at FreeCodeCamp.\
 2- Done with 39% of the project.
 
-**Thoughts** Today's progress mainly focused on learning how to use some intermediate CSS techniques by coding my own Picasso painting webpage. learn about SVG icons, CSS positioning, and review other CSS skills.\
+**Thoughts**:\
+Today's progress mainly focused on learning how to use some intermediate CSS techniques by coding my own Picasso painting webpage. learn about SVG icons, CSS positioning, and review other CSS skills.\
 some of what I learned : \
 1- some intermediate CSS\
 2- SVG icons, CSS positioning, and review other CSS skills.\
@@ -275,7 +292,8 @@ some of what I learned : \
 3- Started with the next project at FCC ,code to build a piano.\
 4- Completed coding a piano at FreeCodeCamp.
 
-**Thoughts** Today's progress was very good compared to the past two days. I completed bulding a painting using html and CSS\
+**Thoughts**:\
+Today's progress was very good compared to the past two days. I completed bulding a painting using html and CSS\
 the project focused mainly on SVG icons, CSS positioning.\
 Then i finished building a piano using html and CSS too.This project focused on media queries and pseudo selectors.\
 Some of what I learned : \
@@ -293,7 +311,8 @@ Some of what I learned : \
 1- started to do the test's project "build a technical documentation" at FreeCodeCamp.\
 2- Coded all the requird elements (without styling).
 
-**Thoughts** Today I did not do much . I started doing one of the test's projects at FreeCodeCamp which is\
+**Thoughts**:\
+ Today I did not do much . I started doing one of the test's projects at FreeCodeCamp which is\
  "build a technichal documentation page". I coded all the required elements and passed all the tests but still did not add any CSS style.\
  Some of what I learned : \
  I did not learn any new things while doing the test project.I was revising almost everything \
@@ -308,7 +327,7 @@ Some of what I learned : \
  1- Submitted the "Technical Documentation page".\
  2- Started to build a city skyline.
 
- **Thoughts**\
+ **Thoughts**:\
  I struggled with my energy to push myself through today's progress. I didn't style the project properly I passed all the tests to submit it. I will re-do it again using vs code and will push my own version to my GitHub account.
 
   **Link(s) to work**
