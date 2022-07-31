@@ -332,3 +332,6 @@ Some of what I learned : \
 
   **Link(s) to work**
  [Day 19 Tweet](https://twitter.com/ManalAbobakr/status/1553342636718981121) 
+
+
+ ### Day 20: July 31 2022
