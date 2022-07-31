@@ -337,3 +337,4 @@ Some of what I learned : \
  ### Day 20: July 31 2022
  **Today's Progress**:\
  1- Started coding a City Skyline at FreeCodeCamp.\
+ 2- Reached step 24.\
