@@ -335,3 +335,4 @@ Some of what I learned : \
 
 
  ### Day 20: July 31 2022
+ **Today's Progress**:\
