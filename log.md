@@ -346,4 +346,4 @@ Some of what I learned : \
   2- root selector\
   3- Configure CSS variables
 
-[Day 19 Tweet]()
+[Day 20 Tweet](https://twitter.com/ManalAbobakr/status/1553841324516057088)
