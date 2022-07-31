@@ -338,3 +338,5 @@ Some of what I learned : \
  **Today's Progress**:\
  1- Started coding a City Skyline at FreeCodeCamp.\
  2- Reached step 42.
+
+ **Thoughts**:\
