@@ -342,5 +342,7 @@ Some of what I learned : \
  **Thoughts**:\
  I was doing good with today's progress till I got distracted by a poor dying kitten.I'm half way doing a city skyline.\
   Some of what I learned : \
+  1- linear-gradient.\
+  2- root selector,
 
 [Day 19 Tweet]()
