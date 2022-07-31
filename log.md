@@ -340,3 +340,4 @@ Some of what I learned : \
  2- Reached step 42.
 
  **Thoughts**:\
+  Some of what I learned : \
