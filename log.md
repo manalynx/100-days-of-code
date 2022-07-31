@@ -340,7 +340,7 @@ Some of what I learned : \
  2- Reached step 48.
 
  **Thoughts**:\
- I was doing good with today's progress till I got distracted by a poor dying kitten 
+ I was doing good with today's progress till I got distracted by a poor dying kitten.I'm half way doing a city skyline.\
   Some of what I learned : \
 
 [Day 19 Tweet]()
