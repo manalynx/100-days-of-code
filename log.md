@@ -355,3 +355,4 @@ Some of what I learned : \
 2- Reached step 69.
 
 **Thoughts**:\
+Some of what I learned : \
