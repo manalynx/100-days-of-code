@@ -312,41 +312,42 @@ Some of what I learned : \
 2- Coded all the requird elements (without styling).
 
 **Thoughts**:\
- Today I did not do much . I started doing one of the test's projects at FreeCodeCamp which is\
- "build a technichal documentation page". I coded all the required elements and passed all the tests but still did not add any CSS style.\
- Some of what I learned : \
- I did not learn any new things while doing the test project.I was revising almost everything \
- I learned throughout the course up to today
+Today I did not do much . I started doing one of the test's projects at FreeCodeCamp which is\
+"build a technichal documentation page". I coded all the required elements and passed all the tests but still did not add any CSS style.\
+Some of what I learned : \
+I did not learn any new things while doing the test project.I was revising almost everything \
+I learned throughout the course up to today
 
- **Link(s) to work**
- [Day 18 Tweet](https://twitter.com/ManalAbobakr/status/1552779284347240450)
-
-
- ### Day 19: July 30 2022
- **Today's Progress**:\
- 1- Submitted the "Technical Documentation page".\
- 2- Started to build a city skyline.
-
- **Thoughts**:\
- I struggled with my energy to push myself through today's progress. I didn't style the project properly I passed all the tests to submit it. I will re-do it again using vs code and will push my own version to my GitHub account.
-
-  **Link(s) to work**
- [Day 19 Tweet](https://twitter.com/ManalAbobakr/status/1553342636718981121) 
+**Link(s) to work**
+[Day 18 Tweet](https://twitter.com/ManalAbobakr/status/1552779284347240450)
 
 
- ### Day 20: July 31 2022
- **Today's Progress**:\
- 1- Started coding a City Skyline at FreeCodeCamp.\
- 2- Reached step 48.
+### Day 19: July 30 2022
+**Today's Progress**:\
+1- Submitted the "Technical Documentation page".\
+2- Started to build a city skyline.
 
- **Thoughts**:\
- I was doing good with today's progress till I got distracted by a poor dying kitten.I'm half way doing a city skyline.\
-  Some of what I learned : \
-  1- linear-gradient.\
-  2- root selector\
-  3- Configure CSS variables
+**Thoughts**:\
+I struggled with my energy to push myself through today's progress. I didn't style the project properly I passed all the tests to submit it. I will re-do it again using vs code and will push my own version to my GitHub account.
+
+**Link(s) to work**
+[Day 19 Tweet](https://twitter.com/ManalAbobakr/status/1553342636718981121) 
+
+
+### Day 20: July 31 2022
+**Today's Progress**:\
+1- Started coding a City Skyline at FreeCodeCamp.\
+2- Reached step 48.
+
+**Thoughts**:\
+I was doing good with today's progress till I got distracted by a poor dying kitten.I'm half way doing a city skyline.\
+Some of what I learned : \
+1- linear-gradient.\
+2- root selector\
+3- Configure CSS variables
 
 [Day 20 Tweet](https://twitter.com/ManalAbobakr/status/1553841324516057088)
 
 
- ### Day 21: August 1 2022
+### Day 21: August 1 2022
+**Today's Progress**:\
