@@ -353,3 +353,5 @@ Some of what I learned : \
 **Today's Progress**:\
 1- Resumed working on the City Skyline project.\
 2- Reached step 69.
+
+**Thoughts**:\
