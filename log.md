@@ -347,3 +347,6 @@ Some of what I learned : \
   3- Configure CSS variables
 
 [Day 20 Tweet](https://twitter.com/ManalAbobakr/status/1553841324516057088)
+
+
+ ### Day 21: August 1 2022
