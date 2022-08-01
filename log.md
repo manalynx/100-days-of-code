@@ -356,3 +356,5 @@ Some of what I learned : \
 
 **Thoughts**:\
 Some of what I learned : \
+
+[Day 20 Tweet]()
