@@ -355,6 +355,6 @@ Some of what I learned : \
 2- Reached step 69.
 
 **Thoughts**:\
-Some of what I learned : \
+Some of what I learned :
 
 [Day 20 Tweet]()
