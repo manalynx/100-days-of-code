@@ -356,5 +356,6 @@ Some of what I learned : \
 
 **Thoughts**:\
 Some of what I learned :\
+1-More about gradient.
 
 [Day 20 Tweet]()
