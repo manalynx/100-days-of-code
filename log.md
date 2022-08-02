@@ -352,11 +352,12 @@ Some of what I learned : \
 ### Day 21: August 1 2022
 **Today's Progress**:\
 1- Resumed working on the City Skyline project.\
-2- Reached step 118.
+2- Done with the City Skyline project.
 
 **Thoughts**:\
 Some of what I learned :\
 1- More about (gradient)'s types.\
 2- More about div's nesting technics. 
+
 
 [Day 20 Tweet]()
