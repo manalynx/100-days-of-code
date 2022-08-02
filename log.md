@@ -354,7 +354,8 @@ Some of what I learned : \
 1- Resumed working on the City Skyline project.\
 2- Done with the City Skyline project.
 
-**Thoughts**:\ Doing the city skyline project was very fun, I can say so far it is the most project i've practiced at FreeCodeCamp.
+**Thoughts**:\
+Doing the city skyline project was very fun, I can say so far it is the most project i've practiced at FreeCodeCamp.
 Some of what I learned :\
 1- More about (gradient)'s types.\
 2- More about div's nesting technics.\
