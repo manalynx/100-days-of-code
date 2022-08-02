@@ -357,7 +357,8 @@ Some of what I learned : \
 **Thoughts**:\
 Some of what I learned :\
 1- More about (gradient)'s types.\
-2- More about div's nesting technics. 
+2- More about div's nesting technics.\
+3- More about Media quirey.
 
 
 [Day 20 Tweet]()
