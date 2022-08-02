@@ -352,7 +352,7 @@ Some of what I learned : \
 ### Day 21: August 1 2022
 **Today's Progress**:\
 1- Resumed working on the City Skyline project.\
-2- Reached step 99.
+2- Reached step 100.
 
 **Thoughts**:\
 Some of what I learned :\
