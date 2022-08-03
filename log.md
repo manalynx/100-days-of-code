@@ -369,7 +369,6 @@ Some of what I learned :\
 1- Started to learn CSS grid by building a Magazine.\
 2- Reched step number 22.
 
-**Thoughts**:\
-Some of what I learned :\
+**Thoughts**:\ project is interesting.It is mostly about grid.Helped me to learn more about grid rows and columns 
 
 [Day 20 Tweet](https://twitter.com/ManalAbobakr/status/1554887188898512896)
