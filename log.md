@@ -370,3 +370,4 @@ Some of what I learned :\
 2- 
 
 **Thoughts**:\
+Some of what I learned :\
