@@ -372,4 +372,4 @@ Some of what I learned :\
 **Thoughts**:\
 Some of what I learned :\
 
-[Day 20 Tweet]()
+[Day 20 Tweet](https://twitter.com/ManalAbobakr/status/1554887188898512896)
