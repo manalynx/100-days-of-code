@@ -367,7 +367,7 @@ Some of what I learned :\
 ### Day 22: August 3 2022
 **Today's Progress**:\
 1- Started to learn CSS grid by building a Magazine.\
-2- Reched step number 22.
+2- Reached step number 27.
 
 **Thoughts**:\ project is interesting.It is mostly about grid.Helped me to learn more about grid rows and columns 
 
