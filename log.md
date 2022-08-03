@@ -363,3 +363,6 @@ Some of what I learned :\
 
 
 [Day 20 Tweet](https://twitter.com/ManalAbobakr/status/1554455401877614593)
+
+
+### Day 22: August 3 2022
