@@ -361,7 +361,6 @@ Some of what I learned :\
 2- More about div's nesting technics.\
 3- More about Media quirey.
 
-
 [Day 20 Tweet](https://twitter.com/ManalAbobakr/status/1554455401877614593)
 
 
