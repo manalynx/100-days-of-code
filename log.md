@@ -379,7 +379,7 @@ Some of what I learned :\
 1- Resume learning CSS grid by building a Magazine.\
 2- Done with coding magazine.
 
-**Thoughts**:\ 
+**Thoughts**:\
 working with CSS grid was interesting. Had a good overview about it but need to dive more to build good skills and knowledge on how to use them perfectly.\
 Some of what I learned :\
 1-How to add social icons.\
