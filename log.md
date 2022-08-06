@@ -361,7 +361,7 @@ Some of what I learned :\
 2- More about div's nesting technics.\
 3- More about Media quirey.
 
-[Day 20 Tweet](https://twitter.com/ManalAbobakr/status/1554455401877614593)
+[Day 21 Tweet](https://twitter.com/ManalAbobakr/status/1554455401877614593)
 
 
 ### Day 22: August 3 2022
@@ -371,4 +371,22 @@ Some of what I learned :\
 
 **Thoughts**:\ project is interesting.It is mostly about grid.Helped me to learn more about grid rows and columns 
 
-[Day 20 Tweet](https://twitter.com/ManalAbobakr/status/1554887188898512896)
+[Day 22 Tweet](https://twitter.com/ManalAbobakr/status/1554887188898512896)
+
+
+### Day 23: August 6 2022
+**Today's Progress**:\
+1- Resume learning CSS grid by building a Magazine.\
+2- Done with coding magazine.
+
+**Thoughts**:\ 
+working with CSS grid was interesting. Had a good overview about it but need to dive more to build good skills and knowledge on how to use them perfectly.\
+Some of what I learned :\
+1-How to add social icons.\
+2- How to display quote.\
+3- CSS grid (Columns and rows).\
+4- grid gap.\
+5- grid-template and grid-auto-flow.\
+6- More about @media.
+
+[Day 23 Tweet](https://twitter.com/ManalAbobakr/status/1555959287385817088)
