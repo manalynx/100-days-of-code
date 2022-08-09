@@ -390,3 +390,14 @@ Some of what I learned :\
 6- More about @media.
 
 [Day 23 Tweet](https://twitter.com/ManalAbobakr/status/1555959287385817088)
+
+
+## Day 24: August 9 2022
+**Today's Progress**:\
+1- Started to Build a Product Landing Page.\
+2- Done doing step number 22.
+
+**Thoughts**:\
+project still under progress .I did not work well today but I almost finish adding the required elements.
+
+[Day 24 Tweet](https://twitter.com/ManalAbobakr/status/1557022235273359360)
