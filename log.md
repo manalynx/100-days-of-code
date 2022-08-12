@@ -401,3 +401,15 @@ Some of what I learned :\
 project still under progress .I did not work well today but I almost finish adding the required elements.
 
 [Day 24 Tweet](https://twitter.com/ManalAbobakr/status/1557022235273359360)
+
+
+### Day 25: August 13 2022
+**Today's Progress**:\
+1- Revised HTML & CSS.\
+2- Worked on beauty salon's landing page.\
+3- Worked with git and github.
+
+**Thoughts**:\
+I'm not happy with today's progress .Feeling discouraged hopping for better performance on the comming days.
+
+[Day 25 Tweet](https://twitter.com/ManalAbobakr/status/1558184276621152256)
