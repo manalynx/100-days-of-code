@@ -413,3 +413,21 @@ project still under progress .I did not work well today but I almost finish addi
 I'm not happy with today's progress .Feeling discouraged hopping for better performance on the comming days.
 
 [Day 25 Tweet](https://twitter.com/ManalAbobakr/status/1558184276621152256)
+
+
+### Day 26: August 14 2022
+**Today's Progress**:\
+1- Submited the product's landing page.\
+2- Started to build a Ferris wheel.\
+3- Reached step number 8.
+
+
+**Thoughts**:\
+Was struggling to do the last 2 step on coding a product's landing page .Spend a lot of time to 
+know what i'm missing the lastly i figured out that all what i'm missing is a stupid bug which need me to use another browser to test my codes and pass.\
+Some of what I learned :\
+- While working on the landing page on FCC editor i did not learn any new things I
+was only including the required elements.\
+- I started to code a landing page for a beauty salon using VS code here where i'm learning new things especially about the page layout.
+
+[Day 26 Tweet](https://twitter.com/ManalAbobakr/status/1558872100014026752)
