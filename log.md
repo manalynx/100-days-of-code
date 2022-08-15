@@ -431,3 +431,24 @@ was only including the required elements.\
 - I started to code a landing page for a beauty salon using VS code here where i'm learning new things especially about the page layout.
 
 [Day 26 Tweet](https://twitter.com/ManalAbobakr/status/1558872100014026752)
+
+
+### Day 27: August 15 2022
+**Today's Progress**:\
+1- Resumed to build a Ferris wheel.\
+2- Done building a ferris wheel.\
+3- Started to build a penguin.\
+4- Reached step number 37.
+
+
+**Thoughts**:\
+Started my progress today with full energy.It's my first time to work with CSS animation
+I enjoyed it and i would like to dive more into it.\
+Some of what I learned :\
+1- transform-origin.\
+2- rotate.\
+3- nth-of-type() selector.\
+4- @keyframes.\
+5- animation-duration , animation-count , and animation-timing-function.
+
+[Day 27 Tweet](https://twitter.com/ManalAbobakr/status/1559196251324723200)
