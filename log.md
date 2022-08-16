@@ -452,3 +452,15 @@ Some of what I learned :\
 5- animation-duration , animation-count , and animation-timing-function.
 
 [Day 27 Tweet](https://twitter.com/ManalAbobakr/status/1559196251324723200)
+
+
+### Day 28: August 16 2022
+**Today's Progress**:\
+1- Resumed to build  a penguin.\
+2- Done building  a penguin using HTML and CSS.
+
+
+**Thoughts**:\
+I mainly focused on learning CSS transform and animation by building a penguin. It was fun dealing with the animation's properties.
+
+[Day 28 Tweet](https://twitter.com/ManalAbobakr/status/1559619939648307200).
