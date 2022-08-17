@@ -464,3 +464,14 @@ Some of what I learned :\
 I mainly focused on learning CSS transform and animation by building a penguin. It was fun dealing with the animation's properties.
 
 [Day 28 Tweet](https://twitter.com/ManalAbobakr/status/1559619939648307200).
+
+
+### Day 29: August 17 2022
+**Today's Progress**:\
+1- 
+
+
+**Thoughts**:\
+
+
+[Day 29 Tweet](https://twitter.com/ManalAbobakr/status/1559866843674083328)
