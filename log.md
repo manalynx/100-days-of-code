@@ -466,12 +466,14 @@ I mainly focused on learning CSS transform and animation by building a penguin. 
 [Day 28 Tweet](https://twitter.com/ManalAbobakr/status/1559619939648307200).
 
 
-### Day 29: August 17 2022
+
+### Day 29: August 21 2022
 **Today's Progress**:\
-1- 
+1- learned more about flexbox.\
+2- Started to style the product landing page at FreeCodeCamp.
 
 
 **Thoughts**:\
+It was informative working with flexbox while styling the landing page for a beauty salon as part of the FreeCodeCamp course.
 
-
-[Day 29 Tweet](https://twitter.com/ManalAbobakr/status/1559866843674083328)
+[Day 29 Tweet](https://twitter.com/ManalAbobakr/status/1561420281565962240)
