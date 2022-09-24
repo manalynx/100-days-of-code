@@ -489,3 +489,27 @@ It was informative working with flexbox while styling the landing page for a bea
 I liked how the concepts were intreduced simply not complicated .javascript looks intresting to be learned will try to boost my progress in the coming days.
 
 [Day 30 Tweet](https://twitter.com/ManalAbobakr/status/1572637807063236609)
+
+
+
+### Day 31: September 22 2022
+**Today's Progress**:\
+1- continue learning javascript @freeCodeCamp.\
+2- done with 21% of the course.
+
+
+**Thoughts**:\
+Today’s progress was all about “JS” variables declaration and data type.
+
+[Day 31 Tweet](https://twitter.com/ManalAbobakr/status/1573181926378291201)
+
+
+### Day 32: September 23 2022
+1- continue learning javascript @freeCodeCamp.\
+2- done with 33% of the course.
+
+
+**Thoughts**:\
+Didn't do much ,I'm still building my basic knowledge about how to deal with JS's strings .
+
+[Day 32 Tweet](https://twitter.com/ManalAbobakr/status/1573703207804870656)
