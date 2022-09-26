@@ -513,3 +513,14 @@ Today’s progress was all about “JS” variables declaration and data type.
 Didn't do much ,I'm still building my basic knowledge about how to deal with JS's strings .
 
 [Day 32 Tweet](https://twitter.com/ManalAbobakr/status/1573703207804870656)
+
+
+### Day 33: September 26 2022
+1- worked on a side project "e-shop".\
+2- revised html and css while working on that project "Pinkies".
+
+
+**Thoughts**:\
+Today's progress was fun. I enjoyed working on Pinkies as it is an e-store for women I can play around with css and discover more.
+
+[Day 33 Tweet](https://twitter.com/ManalAbobakr/status/1574472751053950976)
