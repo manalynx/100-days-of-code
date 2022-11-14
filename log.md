@@ -524,3 +524,47 @@ Didn't do much ,I'm still building my basic knowledge about how to deal with JS'
 Today's progress was fun. I enjoyed working on Pinkies as it is an e-store for women I can play around with css and discover more.
 
 [Day 33 Tweet](https://twitter.com/ManalAbobakr/status/1574472751053950976)
+
+
+
+
+# 100 Days Of Code (Starting over)- Log
+
+
+### Day 0: November 13 2022
+**Today's Progress**:\
+Today is when I decided to start the challange over after i quited for 2 months due to personl reasons.
+
+
+
+**Thoughts**:\
+Feeling excited about my fresh start :).
+
+
+### Day 1: November 13 2022
+**Today's Progress**:\
+1- Reviewed some basic of JS.\
+2- passed 42% JS basic's curse.
+
+
+
+**Thoughts**:\
+Didn't do much ,I'm still building my basic knowledge about how to deal with JS's strings and Araays.
+
+[Day 01 Tweet](https://twitter.com/ManalAbobakr/status/1574472751053950976)
+
+
+
+### Day 2: November 14 2022
+**Today's Progress**:\
+1- passed 52% JS basic's curse.
+2- learned about arrays and strings.\
+3- If statment.
+
+
+
+**Thoughts**:\
+Feeling satasfied that i'm finally back to my progress.I'm hoping that this time I won't break my streak.
+
+
+[Day 02 Tweet](https://twitter.com/ManalAbobakr/status/1592184956130037760)
