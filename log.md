@@ -568,3 +568,19 @@ Feeling satasfied that i'm finally back to my progress.I'm hoping that this time
 
 
 [Day 02 Tweet](https://twitter.com/ManalAbobakr/status/1592184956130037760)
+
+
+
+### Day 3: November 15 2022
+**Today's Progress**:\
+1- passed 84% JS basic's curse.\
+2- learned& practiced  switch.\
+3- Learned about objects.
+
+
+
+**Thoughts**:\
+Although I did not do much but i learned new information about switch statement
+
+
+[Day 03 Tweet](https://twitter.com/ManalAbobakr/status/1592543847506415616)
