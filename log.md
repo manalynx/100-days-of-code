@@ -584,3 +584,16 @@ Although I did not do much but i learned new information about switch statement
 
 
 [Day 03 Tweet](https://twitter.com/ManalAbobakr/status/1592543847506415616)
+
+
+### Day 4: November 16 2022
+**Today's Progress**:\
+1- passed 90% JS basic's curse.\
+2- Reviewed Html and css.\
+
+
+
+**Thoughts**:\
+Did nothing much, and I'm not satisfied with today's progress, but slow progress is better than none
+
+[Day 04 Tweet](https://twitter.com/ManalAbobakr/status/1592907315149406209)
