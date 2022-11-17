@@ -597,3 +597,18 @@ Although I did not do much but i learned new information about switch statement
 Did nothing much, and I'm not satisfied with today's progress, but slow progress is better than none
 
 [Day 04 Tweet](https://twitter.com/ManalAbobakr/status/1592907315149406209)
+
+
+
+### Day 5: November 17 2022
+**Today's Progress**:\
+1- Done with the first section of "JavaScript Algorithms and Data Structures"'s course.\
+2- Learned about different types of loop.\
+3- Started with the second section which is ES6.
+
+
+
+**Thoughts**:\
+I need to dive more into loops.
+
+[Day 05 Tweet](https://twitter.com/ManalAbobakr/status/1593270567611744256)
