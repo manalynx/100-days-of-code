@@ -612,3 +612,16 @@ Did nothing much, and I'm not satisfied with today's progress, but slow progress
 I need to dive more into loops.
 
 [Day 05 Tweet](https://twitter.com/ManalAbobakr/status/1593270567611744256)
+
+
+
+### Day 6: November 18 2022
+**Today's Progress**:\
+1- passed 14% of ES6 section.
+
+
+
+**Thoughts**:\
+Did nothing much but feeling good that im pushing throught my progress hope to speed up my progress
+
+[Day 06 Tweet](https://twitter.com/ManalAbobakr/status/1593637906899296258)
