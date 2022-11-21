@@ -625,3 +625,14 @@ I need to dive more into loops.
 Did nothing much but feeling good that im pushing throught my progress hope to speed up my progress
 
 [Day 06 Tweet](https://twitter.com/ManalAbobakr/status/1593637906899296258)
+
+
+
+## Day 7: November 20 2022
+**Today's Progress**:\
+1- passed 24% of ES6 section.
+
+**Thoughts**:\
+Didn't do much and i'm still struggling with JS and find it hard.
+
+[Day 07 Tweet](https://twitter.com/ManalAbobakr/status/1594363786441285632)
