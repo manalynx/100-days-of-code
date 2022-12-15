@@ -636,3 +636,16 @@ Did nothing much but feeling good that im pushing throught my progress hope to s
 Didn't do much and i'm still struggling with JS and find it hard.
 
 [Day 07 Tweet](https://twitter.com/ManalAbobakr/status/1594363786441285632)
+
+
+## Day 8 + 9 + 10: December 10 + 11 + 12 2022
+**Today's Progress**:\
+1- passed 25% of ES6 section.\
+2- Reviewd JS basics.\
+3- started a js course on udemy.
+
+
+**Thoughts**:\
+Spent the last three days trying to know more about js. Building my basics knowledge is a must at this stage.
+
+[Day 08 + 09 + 10 Tweet](https://twitter.com/ManalAbobakr/status/1603449868692819968)
