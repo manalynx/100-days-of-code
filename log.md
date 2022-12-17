@@ -649,3 +649,16 @@ Didn't do much and i'm still struggling with JS and find it hard.
 Spent the last three days trying to know more about js. Building my basics knowledge is a must at this stage.
 
 [Day 08 + 09 + 10 Tweet](https://twitter.com/ManalAbobakr/status/1603449868692819968)
+
+
+
+## Day 11: December 18 2022
+**Today's Progress**:\
+1- Pushing through "Modern JavaScript From The Beginning" course on udemy.
+
+
+
+**Thoughts**:\
+As I was feeling lost Doing the ES6 course on FCC ,I took a break of FreeCodeCamp and started a course on udemy to build my JS basics and until now it feels like I took the right decision.
+
+[Day 11 Tweet](https://twitter.com/ManalAbobakr/status/1604179094748516356)
