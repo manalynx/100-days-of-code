@@ -662,3 +662,14 @@ Spent the last three days trying to know more about js. Building my basics knowl
 As I was feeling lost Doing the ES6 course on FCC ,I took a break of FreeCodeCamp and started a course on udemy to build my JS basics and until now it feels like I took the right decision.
 
 [Day 11 Tweet](https://twitter.com/ManalAbobakr/status/1604179094748516356)
+
+
+## Day 12: December 19 2022
+**Today's Progress**:\
+1- Pushed through "Modern JavaScript From The Beginning" course on udemy.
+
+
+**Thoughts**:\
+Things are getting clearer since I started over from the beginning with the help of a udemy course
+
+[Day 11 Tweet](https://twitter.com/ManalAbobakr/status/1604923091242536960)
